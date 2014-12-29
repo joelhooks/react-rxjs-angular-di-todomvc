@@ -1,6 +1,6 @@
 ## React + RxJS + Angular 2.0's di.js TodoMVC Example
 
-React provides the blazing fast dome rendering. RxJS allows us to deal with events and user interaction as "Arrays over time" that we are able to filter over with `map`, `filter`, and their related friends. Finally, Angular 2.0's di.js dependency injection tool allows us to bring in some measure of testability to the application (not yet demonstrated here).
+React provides the blazing fast DOM rendering. RxJS allows us to deal with events and user interaction as "Arrays over time" that we are able to filter over with `map`, `filter`, and their related friends. Finally, Angular 2.0's di.js dependency injection tool allows us to bring in some measure of testability to the application (not yet demonstrated here).
 
 This exists simply because I think these tools are interesting, and wanted to see them all playing together.
 
