@@ -1,0 +1,50 @@
+{
+  "name": "rxjs-sandbox-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "6to5ify": "^2.0.0",
+    "browser-sync": "^1.7.2",
+    "browserify": "^7.0.0",
+    "del": "^1.1.0",
+    "gulp": "^3.8.10",
+    "gulp-6to5": "^1.0.2",
+    "gulp-browserify": "^0.5.0",
+    "gulp-less": "^2.0.1",
+    "gulp-livereload": "^3.0.2",
+    "gulp-nodemon": "^1.0.4",
+    "gulp-notify": "^2.0.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-rimraf": "^0.1.1",
+    "lodash": "^2.4.1",
+    "reactify": "^0.17.1",
+    "run-sequence": "^1.0.2",
+    "sort-stream": "^1.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0",
+    "watchify": "^2.1.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.1",
+    "di": "^2.0.0-pre-12",
+    "font-awesome": "^4.2.0",
+    "guid": "0.0.12",
+    "jquery": "1.11.2",
+    "node-uuid": "^1.4.2",
+    "pluralize": "^1.1.0",
+    "react": "^0.12.1",
+    "react-router": "^0.11.6",
+    "reflux": "^0.2.0",
+    "rx": "^2.3.21",
+    "rx-jquery": "^1.1.7",
+    "rx-react": "^0.1.0",
+    "todomvc-common": "^0.3.1",
+    "zepto": "0.0.4"
+  }
+}
