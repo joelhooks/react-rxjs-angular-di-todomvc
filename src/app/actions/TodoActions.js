@@ -62,11 +62,11 @@ class TodoActions {
       })
       .subscribe(this.updates);
 
-      this.clearCompleted
-        .map(() => {
-          return (todos) => todos.filter((todo) => !todo.isComplete)
-        })
-        .subscribe(this.updates);
+    this.clearCompleted
+      .map(() => {
+        return (todos) => todos.filter((todo) => !todo.isComplete)
+      })
+      .subscribe(this.updates);
   }
 }
 
