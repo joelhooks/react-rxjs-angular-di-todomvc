@@ -40,7 +40,6 @@ gulp.task('browserify', function () {
   browserify(files.js)
     .transform(to5ify)
     .transform(reactify)
-    
     .bundle()
     .pipe(source(files.bundle))
     .pipe(buffer())
